@@ -1,6 +1,6 @@
-# Procedures for setting up and using Github at NOAA
+# Procedures for setting up and using GitHub at NOAA
 
-Git (the software) and Github (the remote server) have become the preferred version control and collaboration tool for maintaining code
+Git (the software) and GitHub (the remote server) have become the preferred version control and collaboration tool for maintaining code
 and developing software.  The time you spend setting up your repository at the start pays with interest as you maintain an organized, collaborative project, with a functional master version throughout project development. You will also no longer ever be faced with a sprawling project directory with files labeled V1... Vinfiniti!
 
 ## Setting up an account
@@ -27,7 +27,7 @@ There are only really two Bash commands you need to know: `ls` and `cd`. `ls` li
 ## Using Git
 It takes time to get comfortable with Git, and to make it part of your everyday workflow. But remember, the early investment pays off with maintaining organized projects throughout development.
 
-There are excellent resources online, so just google your questions. Start slow. Don't try and push your whole project folder immediately (see WARNING below).  Github's [Hello World tutorial](https://guides.github.com/activities/hello-world/) is a good place to start.
+There are excellent resources online, so just google your questions. Start slow. Don't try and push your whole project folder immediately (see WARNING below).  GitHub's [Hello World tutorial](https://guides.github.com/activities/hello-world/) is a good place to start.
 
 WARNING:: BE VERY CAREFUL TO NEVER PUSH CONFIDENTIAL DATA TO YOUR GITHUB REPOSITORY.  When you start, I'd recommend adding files 1-by-1 to your commits, and frequently check `git status` to make sure no data files have been added. I'd also quickly study up on using a gitignore file, which will allow you to exclude files/folders even when using `git add .`.
 
