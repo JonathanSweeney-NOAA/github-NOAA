@@ -12,15 +12,22 @@ The account you use for NOAA work will have to be different from your personal a
 * Set up 2-factor authentication under your user settings
 
 ## Installing Git on Windows
-Windows does not come with git pre-installed.  You will have to put in a JIRA ticket to have Git installed on your work machine, if it you haven't installed it previously.  ITS is familiar with this request, but installation instructions can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if needed.
+Windows does not come with Git pre-installed.  You will have to put in a JIRA ticket to have Git installed on your work machine, if it you haven't installed it previously.  ITS is familiar with this request, but installation instructions can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if needed.
 
 ## Using Git Bash
-The command line interface is the preferred method to use Git.  Unfortunately Windows doens't have a Bash terminal, 
+The command line interface is the preferred method to use Git.  Unfortunately Windows doesn't have a Bash terminal, 
 so Git has included one in your Windows install.
 
 To open Git Bash, type "git" in the Windows search bar and click on Git Bash.  It's a good idea to pin this to your task bar for easy access in the future.
 
+When Git Bash opens, type `ls` to see what your directory you're currently in.  If nothing prints, type `ls /c` to navigate to your C: drive.  From there you can use the commands described below to navigate to wherever it is you keep your NOAA projects.
+
 There are only really two Bash commands you need to know: `ls` and `cd`. `ls` lists the files in your current directory, and `cd` allows you to navigate up or down the directory system.  To move down a directory type `cd directoryname`. Type `ls` to see what files/folders are in this current directory. To move back one directory type `cd ..`.  With this simple set of commands you can easily navigate between your project folders and use Git.
+
+## Using Git
+It takes time to get comfortable with Git, and to make it part of your everyday workflow. But remember, the early investment pays off with maintaining organized projects throughout development.
+
+There are excellent resources online, so just google your questions.  You can start [here](https://guides.github.com/activities/hello-world/)
 
 ## Rules for NOAA users
 As NOAA users we are bound by a few rules:
