@@ -5,7 +5,7 @@ and developing software.  The main advantage is you will never be faced with a s
 
 ## Setting up an account
 The account you use for NOAA work will have to be different from your personal account.  To set up a NOAA account follow these steps:
-* Navigate to github.com[https://github.com/]
+* Navigate to [github.com](https://github.com/)
 * Create a new account using your NOAA email address.
 * Your user name should follow the template "FirstnameLastname-NOAA".
 
