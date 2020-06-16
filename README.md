@@ -27,7 +27,9 @@ There are only really two Bash commands you need to know: `ls` and `cd`. `ls` li
 ## Using Git
 It takes time to get comfortable with Git, and to make it part of your everyday workflow. But remember, the early investment pays off with maintaining organized projects throughout development.
 
-There are excellent resources online, so just google your questions.  You can start [here](https://guides.github.com/activities/hello-world/)
+There are excellent resources online, so just google your questions. Start slow. Don't try and push your whole project folder immediately (see WARNING below).  This is a good place to start [here](https://guides.github.com/activities/hello-world/)
+
+WARNING:: BE VERY CAREFUL TO NEVER PUSH CONFIDENTIAL DATA TO YOUR GITHUB REPOSITORY.  When you start, I'd recommend adding files 1-by-1 to your commits, and frequently check `git status` to make sure no data files have been added. I'd also quickly study up on using a gitignore file, which will allow you to exclude files/folders even when using `git add .`.
 
 ## Rules for NOAA users
 As NOAA users we are bound by a few rules:
