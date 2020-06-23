@@ -12,7 +12,7 @@ The account you use for NOAA work will have to be different from your personal a
 * Set up 2-factor authentication under your user settings
 
 ## Installing Git on Windows
-Windows does not come with Git pre-installed.  You will have to put in a JIRA ticket to have Git installed on your work machine, if it you haven't installed it previously.  ITS is familiar with this request, but installation instructions can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if needed.
+Windows does not come with Git pre-installed.  You will have to put in a JIRA ticket to have Git installed on your work machine, if you haven't installed it previously.  ITS is familiar with this request, but installation instructions can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if needed.
 
 ## Using Git Bash
 The command line interface is the preferred method to use Git.  Unfortunately Windows doesn't have a Bash terminal, 
